@@ -1,0 +1,12 @@
+{
+  "name": "nw",
+  "version": "1.0.0",
+  "main": "dist/src/index.js",
+  "license": "MIT",
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "dependencies": {
+    "typescript": "5.2.2"
+  }
+}
